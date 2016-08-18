@@ -1,5 +1,5 @@
-# explore_experiences
-Project using Xola API (Programming Problem)
+# Xola Explore Experiences
+Project using Xola API (Programming Problem). Uses Flask on the backend and React.js for the frontend.
 
 # Install & Usage
 
